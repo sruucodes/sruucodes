@@ -1,5 +1,5 @@
-Heyy Theree,
-<br><br>I’m Sahithi Srujana C, a Final Year Computer Science & Engineering student at JSS.<br><br>💻 I’m a Full Stack Developer passionate about building impactful applications. <br>I primarily work with the MERN stack (MongoDB, Express.js, React.js, Node.js), and I love turning ideas into scalable web apps.<br><br>🚀 Featured Projects:<br>🩸 Blood Bank Management System – A web app designed to streamline blood donation and request processes. I was responsible for the frontend development, ensuring a clean UI and seamless user interaction using React.js.<br>⚡ EVCoE Project– Worked at the **Electric Vehicle Center of Excellence**, gaining hands-on experience in simulation and modeling of EV systems using tools like Dymola, Modelica,  and 3DS. This included system-level analysis and performance optimization.<br><br><br>🧠 Interests:<br><br>Full Stack Development<br><br>REST APIs & Database Modeling<br><br>Data Structures & Algorithms<br><br>System Design & OS Concepts<br><br>📌 Notable Achievements:<br><br>🔬 Published a research paper on Electronic Health Records(EHR) using machine learning techniques, with the goal of contributing to real-world healthcare applications.<br><br>🛰 Finalist, NASA Space Apps Challenge 2022.<br><br>🛠 DSA Journey: Completed Solving challenges from **Striver’s A2Z Sheet** to build strong problem-solving skills.<br><br><br><br><br>🔗 Let’s connect and collaborate on exciting ideas!<br>📫 Reach me at: sahithisrujanareddy2003@gmail.com
+# 💫 About Me:
+Heyy Theree, <br><br>I’m Sahithi Srujana C, a Final Year Computer Science & Engineering student at JSS.<br><br>💻 I’m a Full Stack Developer passionate about building impactful applications. <br>I primarily work with the MERN stack (MongoDB, Express.js, React.js, Node.js), and I love turning ideas into scalable web apps.<br><br>🚀 Featured Projects:<br>🩸 Blood Bank Management System – A web app designed to streamline blood donation and request processes. I was responsible for the frontend development, ensuring a clean UI and seamless user interaction using React.js.<br>⚡ EVCoE Project– Worked at the **Electric Vehicle Center of Excellence**, gaining hands-on experience in simulation and modeling of EV systems using tools like Dymola, Modelica,  and 3DS. This included system-level analysis and performance optimization.<br><br><br>🧠 Interests:<br><br>Full Stack Development<br>REST APIs & Database Modeling<br>Data Structures & Algorithms<br>System Design & OS Concepts<br><br>📌 Notable Achievements:<br><br>🔬 Published a research paper on Electronic Health Records(EHR) using machine learning techniques, with the goal of contributing to real-world healthcare applications.<br><br>🛰 Finalist, NASA Space Apps Challenge 2022.<br><br>🛠 DSA Journey: Completed Solving challenges from **Striver’s A2Z Sheet** to build strong problem-solving skills.<br><br><br><br><br>🔗 Let’s connect and collaborate on exciting ideas!<br>📫 Reach me at: sahithisrujanareddy2003@gmail.com
 
 
 ## 🌐 Socials:
@@ -12,7 +12,13 @@ Heyy Theree,
 ![](https://nirzak-streak-stats.vercel.app/?user=sruucodes&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sruucodes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sruucodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=sruucodes&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sruucodes&icon=4&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
