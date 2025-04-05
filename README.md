@@ -16,9 +16,12 @@ Heyy Theree, <br><br>I’m Sahithi Srujana C, a Final Year Computer Science & En
 ![](https://github-profile-trophy.vercel.app/?username=sruucodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sruucodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sruucodes&icon=4&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sruucodes&icon=6&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
